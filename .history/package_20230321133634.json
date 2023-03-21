@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \\\"No test specified\\\" && exit 0",
     "pack": "electron-builder --dir",
-    "build": "electron-builder",
+    "dist": "electron-builder",
     "build:icon": "electron-icon-builder --input=public/icon.png --output=electron",
     "start": "electron ."
   },
