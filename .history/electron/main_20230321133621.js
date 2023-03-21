@@ -130,7 +130,7 @@ app.on('ready', () => {
         mainWindow.hide();
     });
 
-    tray.setToolTip('ChatGPT Desktop')
+    tray.setToolTip('这是一个托盘提示')
 
     // 托盘图标被双击
     tray.on('double-click', () => {
