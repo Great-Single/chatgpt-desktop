@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2023
+
+版权所有 (c) Great-Single
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+特此授权任何获得本软件和相关文档文件（“软件”）副本的人免费使用软件，包括但不限于软件的复制、修改、合并、出版发行、分发和/或销售软件的副本，以及允许这些人根据下列条件对软件进行操作：
+
+在软件和软件的所有副本或主要部分中都必须包含以上版权声明、本许可声明和下面的免责声明。
+
+本软件按“原样”提供，不提供任何形式的明示或暗示的保证，包括但不限于适销性、适用于特定用途和非侵权性的保证。
+
+在任何情况下，作者或版权持有人都不应对任何索赔、损害或其他责任承担任何责任，无论是在合同、侵权或其他方面，由此产生的、或与软件或使用或其他交易中的软件有关的、或与软件的使用或其他交易中的任何其他行为有关的，包括但不限于使用、修改、复制、合并、出版发行、分发、再许可和/或销售软件的副本。
+
+免责声明
+
+本软件为开源软件，使用本软件风险自负。作者和版权所有人不承担任何明示或暗示的担保和责任，包括但不限于适销性、适用性和非侵权性的保证。在任何情况下，作者或版权所有人均不对任何索赔、损害或其他责任承担责任，无论是在合同、侵权或其他方面，由此产生的、或与软件或使用或其他交易中的软件有关的、或与软件的使用或其他交易中的任何其他行为有关的。
+
+我们对软件的正确性、质量、完整性、实用性、可靠性、适用性和其他方面不做任何承诺或保证。使用软件是用户自己的决定和风险。如果在使用本软件时发现任何问题，请及时联系我们。
+
+本软件只负责代替浏览器访问 https://chat.openai.com/chat 的页面内容，对其中的页面内容概不负责。

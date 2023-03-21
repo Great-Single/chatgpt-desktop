@@ -1,0 +1,66 @@
+# Target Platform Settings
+# --------------------------------------
+mac:
+  target: dmg
+  icon: build/icon.icns
+
+win:
+  target: nsis
+  icon: build/icon.ico
+
+linux:
+  target: AppImage
+  icon: build/icon.png
+
+# Application Metadata
+# --------------------------------------
+productName: ChatGPT Desktop
+description: A desktop chat application powered by ChatGPT.
+version: 1.0.1
+author: Great-Single
+homepage: https://github.com/Great-Single/chatgpt-desktop
+
+# Files to be included in the distribution
+# --------------------------------------
+files:
+  - build/**
+  - node_modules/**
+  - public/**
+  - main.js
+  - package.json
+  - package-lock.json
+
+# Hooks
+# --------------------------------------
+# For example, you can use hooks to update the app version
+# or perform other custom actions before/after packaging
+
+# macOS notarization settings
+# --------------------------------------
+# Here you can configure settings for notarizing your macOS application
+# with Apple's notarization service
+
+# NSIS Installer Settings
+# --------------------------------------
+nsis:
+  oneClick: false
+  allowElevation: true
+  allowToChangeInstallationDirectory: true
+  installerIcon: build/icon.ico
+  uninstallerIcon: build/icon.ico
+  installerHeaderIcon: build/icon.ico
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: ChatGPT Desktop
+
+# DMG Settings (macOS only)
+# --------------------------------------
+dmg:
+  background: build/dmg-background.png
+  icon: build/icon.icns
+  title: ChatGPT Desktop Installer
+
+# AppImage Settings (Linux only)
+# --------------------------------------
+appImage:
+  icon: build/icon.png
